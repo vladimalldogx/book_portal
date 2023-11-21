@@ -59,7 +59,7 @@ class DatabaseSeeder extends Seeder
         User::create([
             'firstname' => 'Ryan',
             'lastname' => 'Vindo',
-            'email' => 'hey3x@elink.com.ph',
+            'email' => 'hey3x@xlink.com.ph',
             'email_verified_at' => now(),
             'usertype'=> '4',
             'department'=>'ARO',
@@ -68,7 +68,7 @@ class DatabaseSeeder extends Seeder
         User::create([
             'firstname' => 'Willa Mae',
             'lastname' => 'Hiyoca',
-            'email' => 'hiyoca@elink.com.ph',
+            'email' => 'hiyoca@gitx.com.ph',
             'email_verified_at' => now(),
             'usertype'=> '4',
             'department'=>'ARO',
